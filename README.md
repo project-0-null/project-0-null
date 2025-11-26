@@ -1,16 +1,58 @@
-## Hi there 👋
+# Miguel Magal 🚀
 
-<!--
-**project-0-null/project-0-null** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Electrical Engineering Student | Developer | IoT Enthusiast`**
 
-Here are some ideas to get you started:
+I'm a 2th-year Electrical Engineering student at UFES, currently working at NERDS. Passionate about technology, i love building PC's and assemble hardware in general, learning how to be a developer, i like to see the world in a physicist way.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Skills & Technologies
+
+**Programming Languages:**
+- **Java** - Object-oriented programming
+- **C** - Embedded systems, low-level programming
+- **Python** - Scripting, automation, computer vision
+- **Assembly** - Microcontroller programming
+
+**Currently Learning:**
+- 🐳 **Docker** - Containerization and deployment
+- 📡 **ESP32** - IoT development and embedded systems
+- ☁️ **StarlingX & FIWARE** - Edge computing and cloud platforms
+- 🌐 **HTTP/REST APIs** - Web services and communication protocols
+
+**Tools & Platforms:**
+- **Linux** - System administration and development
+- **Computer Vision** - YOLO for object detection
+
+---
+
+### 🔬 Current Project
+
+**Intelligent Camera System @ Nerds Laboratory**
+Developing a smart camera solution using:
+- **ESP32** for hardware control
+- **HTTP** for communication protocols
+- **FIWARE** for context data management
+- **Docker** for containerization
+- **StarlingX** for edge computing infrastructure
+- **Computer Vision** with YOLO for object detection
+
+---
+
+### 📊 GitHub Stats
+
+![Viktor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=radical)
+
+---
+
+### 📫 Let's Connect!
+
+- **Email**: [seu-email@domain.com](miguelmagal0802@gmail.com)
+- - **Email**: [seu-email@domain.com](miguel.magalhaes@edu.ufes.br)
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/miguel-catelan-a5079618a)
+
+---
+
+*"set of atoms that exist since the Big Bang."*
