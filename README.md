@@ -42,7 +42,7 @@ Developing a smart camera solution using:
 ### 📫 Let's Connect!
 
 - **Email**: [seu-email@domain.com](miguelmagal0802@gmail.com)
-- - **Email**: [seu-email@domain.com](miguel.magalhaes@edu.ufes.br)
+- **Email**: [seu-email@domain.com](miguel.magalhaes@edu.ufes.br)
 - **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/miguel-catelan-a5079618a)
 
 ---
