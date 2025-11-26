@@ -1,4 +1,4 @@
-# Miguel Magal 🚀
+# Miguel Magal 🎧
 
 **`Electrical Engineering Student | Developer | IoT Enthusiast`**
 
@@ -36,14 +36,6 @@ Developing a smart camera solution using:
 - **Docker** for containerization
 - **StarlingX** for edge computing infrastructure
 - **Computer Vision** with YOLO for object detection
-
----
-
-### 📊 GitHub Stats
-
-![Viktor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=radical)
 
 ---
 
