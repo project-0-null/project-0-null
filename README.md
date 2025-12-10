@@ -15,10 +15,10 @@ I'm a 2th-year Electrical Engineering student at UFES, currently working at NERD
 - **Assembly** - Microcontroller programming
 
 **Currently Learning:**
-- 🐳 **Docker** - Containerization and deployment
+- 🐳 **Docker** - Containerization
 - 📡 **ESP32** - IoT development and embedded systems
-- ☁️ **StarlingX & FIWARE** - Edge computing and cloud platforms
-- 🌐 **HTTP/REST APIs** - Web services and communication protocols
+- ☁️ **FIWARE** - Edge computing 
+- 🌐 **HTTP** - communication protocols
 
 **Tools & Platforms:**
 - **Linux** - System administration and development
