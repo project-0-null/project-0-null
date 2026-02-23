@@ -10,7 +10,7 @@ I'm a 2th-year Electrical Engineering student at UFES, currently working at NERD
 
 **Programming Languages:**
 - **Java** - Object-oriented programming
-- **C** - Embedded systems, low-level programming
+- **C/C++** - Embedded systems, low-level programming
 - **Python** - Scripting, automation, computer vision
 - **Assembly** - Microcontroller programming
 
