@@ -19,22 +19,24 @@ I'm a 2th-year Electrical Engineering student at UFES, currently working at NERD
 - 📡 **ESP32** - IoT development and embedded systems
 - ☁️ **FIWARE** - Edge computing 
 - 🌐 **HTTP** - communication protocols
+- 🇯‌🇸‌ **javaScript" - for projects
 
 **Tools & Platforms:**
 - **Linux** - System administration and development
 - **Computer Vision** - YOLO for object detection
-
----
+- **Raspberri pi & JetsonNano** - optimization for microcomputers
 
 ### 🔬 Current Project
 
 **Intelligent Camera System @ Nerds Laboratory**
 Developing a smart camera solution using:
 - **ESP32** for hardware control
+- **Raspberry pi** alternative for ESP32
+- **Jetson Nano** alternative for ESP32
 - **HTTP** for communication protocols
 - **FIWARE** for context data management
+  -- **Orion Context Broker** receiver for data sent by sensors
 - **Docker** for containerization
-- **StarlingX** for edge computing infrastructure
 - **Computer Vision** with YOLO for object detection
 
 ---
