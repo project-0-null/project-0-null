@@ -19,7 +19,7 @@ I'm a 2th-year Electrical Engineering student at UFES, currently working at NERD
 - 📡 **ESP32** - IoT development and embedded systems
 - ☁️ **FIWARE** - Edge computing 
 - 🌐 **HTTP** - communication protocols
-- 🇯‌🇸‌ **javaScript** - for projects
+-  🇯‌🇸‌ **javaScript** - for projects
 
 **Tools & Platforms:**
 - **Linux** - System administration and development
